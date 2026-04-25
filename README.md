@@ -2,7 +2,7 @@ Deber 4: Programación Orientada a Objetos en Java
 
 📖 Descripción
 
-Este proyecto contiene la resolución de los ejercicios prácticos del Deber 1 para la asignatura de Programación Orientada a Objetos (POO) de la Escuela Politécnica Nacional (EPN).
+Este proyecto contiene la resolución de los ejercicios prácticos del Deber 4 para la asignatura de Programación Orientada a Objetos (POO) de la Escuela Politécnica Nacional (EPN).
 
 El objetivo principal es aplicar los conceptos fundamentales de Java, enfocándose en la estructuración de clases, manipulación de datos por consola y protección de la información.
 
